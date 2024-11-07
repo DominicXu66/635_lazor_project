@@ -15,6 +15,7 @@ Place a .bff file in the input directory. This file should define the grid, bloc
 Run the Solver:
 import os
 import sys
+import glob
 cd /PATH/TO/Lazor_Project
 python run.py
 
